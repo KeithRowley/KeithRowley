@@ -38,8 +38,36 @@ The system deliberately distinguishes **retrieval evidence** from claims about A
 **Technical documentation:**  
 https://github.com/Sydney-Business-Web/ai-observatory
 
-**Archived technical release — v1.0.0:**  
+**Zenodo record:**  
+https://zenodo.org/records/22850808
+
+**Earlier archived technical release — v1.0.0:**  
 https://doi.org/10.5281/zenodo.22040578
+
+---
+
+### AI Identity Diagnostic
+
+[AI Identity Diagnostic](https://sydneybusinessweb.com.au/ai-visibility-analysis/) is a structured assessment of a business's machine-readable identity, including entity resolution, completeness and external corroboration.
+
+It builds on structural analysis to identify where a business identity is unclear or insufficiently supported. It does not, by itself, establish AI search inclusion or recommendations.
+
+**Zenodo record:**  
+https://zenodo.org/records/22119042
+
+---
+
+### AI Baby Gorilla
+
+[AI Baby Gorilla](https://sydneybusinessweb.com.au/ai-baby-gorilla/) is a free, single-page structured-data connectivity checker developed by Sydney Business Web.
+
+It reports whether key entity relationships are connected, partly connected or fragmented. An access-controlled API also supports use in automated agent workflows; the public tool and documentation do not constitute an open-source release of the production service.
+
+**Public technical documentation:**  
+https://github.com/Sydney-Business-Web/ai-baby-gorilla
+
+**Zenodo record:**  
+https://zenodo.org/records/22288382
 
 ---
 
@@ -50,6 +78,7 @@ https://doi.org/10.5281/zenodo.22040578
 - Entity and schema architecture
 - Structured data engineering
 - AI crawler access and retrieval measurement
+- Agent-accessible APIs and authenticated tool integration
 - Web systems architecture
 - WordPress and WooCommerce engineering
 - API and supplier-feed integration
